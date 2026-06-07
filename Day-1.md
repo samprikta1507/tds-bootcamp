@@ -3,7 +3,7 @@
 
 --- Before Day-1 ---
 I already knew how to use Windows and basic computer operations.
----
+--- 
 
 ## Day-1 Checklist
 
@@ -25,3 +25,8 @@ I learned these things as well, apart from the checklist: how to install WSL, co
 --- Feedback (Suggestions for the TDS Team) ---
 This is my feedback: The session was very helpful and well structured!
 ---
+
+---
+---
+
+You can write your personal notes here; they will not be parsed and are for your own reference.
